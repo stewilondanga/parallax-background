@@ -13,10 +13,10 @@ $('.landing').mousemove(function(e) {
       var amountMovedX1 = ((width - e.pageX) * -1 / 16);
       var amountMovedY1 = ((height - e.pageY) * -1 / 16);
 
-      /*    var amountMovedX2 = ((width - e.pageX) / 40);
-          var amountMovedY2 = ((height - e.pageY) / 30);
+      var amountMovedX2 = ((width - e.pageX) / 40);
+      var amountMovedY2 = ((height - e.pageY) / 30);
 
-          var amountMovedX3 = ((width - e.pageX) / 20);
+      /*    var amountMovedX3 = ((width - e.pageX) / 20);
           var amountMovedY3 = ((height - e.pageY) / 20);
 
           var amountMovedX4 = ((width - e.pageX) * -1 / 10);
