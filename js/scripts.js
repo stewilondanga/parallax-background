@@ -28,9 +28,9 @@ $('.landing').mousemove(function(e) {
       $('.shapes2').css('marginLeft', amountMovedX2);
       $('.shapes2').css('marginTop', amountMovedY2);
 
-      /*    $('.shapes3').css('marginLeft', amountMovedX3);
-          $('.shapes3').css('marginTop', amountMovedY3);
+      $('.shapes3').css('marginLeft', amountMovedX3);
+      $('.shapes3').css('marginTop', amountMovedY3);
 
-          $('.shapes4').css('marginLeft', amountMovedX4);
+      /*    $('.shapes4').css('marginLeft', amountMovedX4);
           $('.shapes4').css('marginTop', amountMovedY4);
       	});
