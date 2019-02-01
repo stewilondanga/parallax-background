@@ -57,10 +57,11 @@ body {
   padding-top: 300px;
 }
 
-/*.landing .shapes4 {
-    z-index: 0;
+.landing .shapes4 {
+  z-index: 0;
 }
-.landing .layer {
+
+/*.landing .layer {
   position: absolute;
   top: 0;
   right: 0;
