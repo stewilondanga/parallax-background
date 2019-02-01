@@ -19,10 +19,10 @@ $('.landing').mousemove(function(e) {
       var amountMovedX3 = ((width - e.pageX) / 20);
       var amountMovedY3 = ((height - e.pageY) / 20);
 
-      /*    var amountMovedX4 = ((width - e.pageX) * -1 / 10);
-          var amountMovedY4 = ((height - e.pageY) * -1 / 20);
+      var amountMovedX4 = ((width - e.pageX) * -1 / 10);
+      var amountMovedY4 = ((height - e.pageY) * -1 / 20);
 
-          $('.shapes1').css('marginLeft', amountMovedX1);
+      /*    $('.shapes1').css('marginLeft', amountMovedX1);
           $('.shapes1').css('marginTop', amountMovedY1);
 
           $('.shapes2').css('marginLeft', amountMovedX2);
