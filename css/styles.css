@@ -19,7 +19,7 @@ body {
   height: 1.5em;
 }
 
-/*.landing {
+.landing {
   overflow: hidden;
   position: relative;
   background: #174799 url('https://www.imageupload.co.uk/images/2018/01/24/bg.png');
@@ -29,7 +29,7 @@ body {
   height: 100vh;
 }
 
-.landing .shapes.shapes1 {
+/*.landing .shapes.shapes1 {
     background: url('https://www.imageupload.co.uk/images/2018/01/24/shape1.png') no-repeat center;
 }
 .landing .shapes.shapes2 {
