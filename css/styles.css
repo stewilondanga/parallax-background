@@ -41,11 +41,11 @@ body {
   background: url('https://www.imageupload.co.uk/images/2018/01/24/shape2.png') no-repeat center;
 }
 
-/*.landing .shapes.shapes4 {
-    background: url('https://www.imageupload.co.uk/images/2018/01/24/shape3.png') no-repeat center;
+.landing .shapes.shapes4 {
+  background: url('https://www.imageupload.co.uk/images/2018/01/24/shape3.png') no-repeat center;
 }
 
-.landing .shapes {
+/*.landing .shapes {
     position: absolute;
     top: 0;
     left: 0;
