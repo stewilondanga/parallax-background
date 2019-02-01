@@ -61,7 +61,7 @@ body {
   z-index: 0;
 }
 
-/*.landing .layer {
+.landing .layer {
   position: absolute;
   top: 0;
   right: 0;
@@ -70,7 +70,7 @@ body {
   background-color: rgba(0, 0, 0, 0.1);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
