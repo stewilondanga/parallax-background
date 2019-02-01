@@ -1,13 +1,13 @@
-/*var navigate = (function() {
-	$('.dd').toggle();
-	$('.dd_btn').click(function() {
-		var dataName = $(this).attr('data-name');
-		$('.dd').hide();
-		$('.' + dataName).toggle();
-	});
+var navigate = (function() {
+  $('.dd').toggle();
+  $('.dd_btn').click(function() {
+    var dataName = $(this).attr('data-name');
+    $('.dd').hide();
+    $('.' + dataName).toggle();
+  });
 })();
 
-$('.landing').mousemove(function(e){
+/*$('.landing').mousemove(function(e){
     var width = $(this).width() / 2;
     var height = $(this).height() / 2;
     var amountMovedX1 = ((width - e.pageX) * -1 / 16);
