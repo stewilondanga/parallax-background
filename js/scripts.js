@@ -25,10 +25,10 @@ $('.landing').mousemove(function(e) {
       $('.shapes1').css('marginLeft', amountMovedX1);
       $('.shapes1').css('marginTop', amountMovedY1);
 
-      /*    $('.shapes2').css('marginLeft', amountMovedX2);
-          $('.shapes2').css('marginTop', amountMovedY2);
+      $('.shapes2').css('marginLeft', amountMovedX2);
+      $('.shapes2').css('marginTop', amountMovedY2);
 
-          $('.shapes3').css('marginLeft', amountMovedX3);
+      /*    $('.shapes3').css('marginLeft', amountMovedX3);
           $('.shapes3').css('marginTop', amountMovedY3);
 
           $('.shapes4').css('marginLeft', amountMovedX4);
