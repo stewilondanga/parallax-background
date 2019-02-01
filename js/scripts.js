@@ -22,10 +22,10 @@ $('.landing').mousemove(function(e) {
       var amountMovedX4 = ((width - e.pageX) * -1 / 10);
       var amountMovedY4 = ((height - e.pageY) * -1 / 20);
 
-      /*    $('.shapes1').css('marginLeft', amountMovedX1);
-          $('.shapes1').css('marginTop', amountMovedY1);
+      $('.shapes1').css('marginLeft', amountMovedX1);
+      $('.shapes1').css('marginTop', amountMovedY1);
 
-          $('.shapes2').css('marginLeft', amountMovedX2);
+      /*    $('.shapes2').css('marginLeft', amountMovedX2);
           $('.shapes2').css('marginTop', amountMovedY2);
 
           $('.shapes3').css('marginLeft', amountMovedX3);
